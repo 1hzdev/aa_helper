@@ -1,8 +1,8 @@
-# AA Helper Library
+# AA Utilities Library
 
-This repo contains files for various commands of the AA Helper discord bot to work. 
+This repo contains files for various commands of the AA Utilities discord bot to work. 
 
-AA Helper is a discord bot in development. You can play around with the bot by joining the [Discord Server](https://discord.gg/EbWuhVwfaV)
+AA Utilities is a discord bot in development. You can play around with the bot by joining the [Discord Server](https://discord.gg/EbWuhVwfaV)
 ## Features
 
 - !stats - Shows damage, range, and SPA for a unit in game at max upgrade. Takes one string parameter
