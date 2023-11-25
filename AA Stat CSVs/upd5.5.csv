@@ -1,0 +1,89 @@
+,Cell,,,Phy,Cost Per Unit,¥,DPS VALUE,Placement Limit,,Trunks,,,Phy,Cost Per Unit,¥,DPS VALUE,Placement Limit
+,,,,Air,71400,¥,Cost /DPSx1000,4,,,,,Light,60150,¥,Cost /DPSx1000,4
+,,,,Hill,AOE(Circle) 14 Radius,,1300¥ Deploy,,,,,,Ground,AOE Full,,1350¥ Deploy,
+,Upgrade 0,,,Max Upgrade,,71400,,4,,Upgrade 0,,,Max Upgrade,,60150,,4
+,Base Stats,,,,,,DPS Value,Base DPS,,Base Stats,,,,,,DPS Value,Base DPS
+,Damage,1866.579,,Damage,46664.605,,109,31109.73667,,Damage,1794.79,,Damage,35895.85,,85,20511.91429
+,Range ,15,,Range ,34,,,,,Range ,17.5,,Range ,23,,,
+,SPA,7,,SPA,6,,,,,SPA,8.5,,SPA,7,,,
+,,,,56050,,71400,,4,,,,,56050,,60150,,4
+,SSS Stats,,,,,56050,DPS Value,MaxBase DPS,,SSS Stats,,,,,56050,DPS Value,MaxBase DPS
+,Damage,2240,,Damage,55998,56050,145,41479.64889,,Damage,2154,,Damage,43075,56050,114,27349.21905
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Unique,,,,,56050,DPS Value,Unique DPS,,Unique,,,,,56050,DPS Value,Unique DPS
+,Damage,8960,,Damage,223990,56050,645,46088.49877,,Damage,8615,,Damage,172300,56050,505,30388.02116
+,Range ,18.2,,Range ,41.1,56050,,,,Range ,21.2,,Range ,27.8,56050,,
+,SPA,5.7,,SPA,4.9,56050,,,,SPA,6.9,,SPA,5.7,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Divine,,,,,56050,DPS Value,Divine DPS,,Divine,,,,,56050,DPS Value,Divine DPS
+,Damage,2688,,Damage,67197,56050,194,55306.19852,,Damage,2584,,Damage,51690,56050,152,36465.6254
+,Range ,19.8,,Range ,44.9,56050,,,,Range ,23.1,,Range ,30.4,56050,,
+,SPA,5.7,,SPA,4.9,56050,,,,SPA,6.9,,SPA,5.7,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Celestial,,,,,56050,DPS Value,Celestial DPS,,Celestial,,,,,56050,DPS Value,Celestial DPS
+,Damage,2464,,Damage,61597,56050,192,54753.13653,,Damage,2369,,Damage,47383,56050,150,36100.96914
+,Range ,16.5,,Range ,41.1,56050,,,,Range ,19.3,,Range ,27.8,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Golden,,,,,56050,DPS Value,Golden DPS,,Golden,,,,,56050,DPS Value,Golden DPS
+,Damage,2912,,Damage,72797,56050,189,53923.54356,,Damage,2800,,Damage,55998,56050,148,35553.98476
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Godspeed,,,,,56050,DPS Value,Godspeed DPS,,Godspeed,,,,,56050,DPS Value,Godspeed DPS
+,Damage,2240,,Damage,55998,56050,182,51849.56111,,Damage,2154,,Damage,43075,56050,142,34186.52381
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,5.0,,SPA,4.3,56050,,,,SPA,6.1,,SPA,5.0,56050,,
+,,,,Max Upgrade,,71400,,4,,,,,Max Upgrade,,60150,,4
+,Sniper,,,,,56050,DPS Value,Sniper DPS,,Sniper,,,,,56050,DPS Value,Sniper DPS
+,Damage,2240,,Damage,55998,56050,145,41479.64889,,Damage,2154,,Damage,43075,56050,114,27349.21905
+,Range ,20.6,,Range ,46.8,56050,,,,Range ,24.1,,Range ,31.6,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Superior 3/Reaper,,,,,56050,DPS Value,Superior 3 DPS,,Superior 3/Reaper,,,,,56050,DPS Value,Superior 3 DPS
+,Damage,2576,,Damage,64397,56050,167,47701.59622,,Damage,2477,,Damage,49536,56050,131,31451.6019
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Superior 2,,,,,56050,DPS Value,Superior 2 DPS,,Superior 2,,,,,56050,DPS Value,Superior 2 DPS
+,Damage,2520,,Damage,62997,56050,163,46664.605,,Damage,2423,,Damage,48459,56050,128,30767.87143
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Superior 1,,,,,56050,DPS Value,Superior 1 DPS,,Superior 1,,,,,56050,DPS Value,Superior 1 DPS
+,Damage,2464,,Damage,61597,56050,160,45627.61378,,Damage,2369,,Damage,47383,56050,125,30084.14095
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Nimble 3,,,,,56050,DPS Value,Nim3 DPS,,Nimble 3,,,,,56050,DPS Value,Nim3 DPS
+,Damage,2240,,Damage,55998,56050,166,47405.31302,,Damage,2154,,Damage,43075,56050,130,31256.25034
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,5.5,,SPA,4.7,56050,,,,SPA,6.7,,SPA,5.5,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Nimble 2,,,,,56050,DPS Value,Nim2 DPS,,Nimble 2,,,,,56050,DPS Value,Nim2 DPS
+,Damage,2240,,Damage,55998,56050,157,44842.86366,,Damage,2154,,Damage,43075,56050,123,29566.72329
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,5.8,,SPA,5.0,56050,,,,SPA,7.1,,SPA,5.8,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Nimble 1,,,,,56050,DPS Value,Nim1 DPS,,Nimble 1,,,,,56050,DPS Value,Nim1 DPS
+,Damage,2240,,Damage,55998,56050,153,43662.7883,,Damage,2154,,Damage,43075,56050,120,28788.65163
+,Range ,16.5,,Range ,37.4,56050,,,,Range ,19.3,,Range ,25.3,56050,,
+,SPA,6.0,,SPA,5.1,56050,,,,SPA,7.3,,SPA,6.0,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Range 3,,,,,56050,DPS Value,Range 3 DPS,,Range 3,,,,,56050,DPS Value,Range 3 DPS
+,Damage,2240,,Damage,55998,56050,145,41479.64889,,Damage,2154,,Damage,43075,56050,114,27349.21905
+,Range ,19.0,,Range ,43.0,56050,,,,Range ,22.1,,Range ,29.1,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Range 2,,,,,56050,DPS Value,Range 2 DPS,,Range 2,,,,,56050,DPS Value,Range 2 DPS
+,Damage,2240,,Damage,55998,56050,145,41479.64889,,Damage,2154,,Damage,43075,56050,114,27349.21905
+,Range ,18.6,,Range ,42.1,56050,,,,Range ,21.7,,Range ,28.5,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,71400,,4,,,,,,,60150,,4
+,Range 1,,,,,56050,DPS Value,Range 1 DPS,,Range 1,,,,,56050,DPS Value,Range 1 DPS
+,Damage,2240,,Damage,55998,56050,145,41479.64889,,Damage,2154,,Damage,43075,56050,114,27349.21905
+,Range ,18.2,,Range ,41.1,56050,,,,Range ,21.2,,Range ,27.8,56050,,
+,SPA,6.3,,SPA,5.4,56050,,,,SPA,7.7,,SPA,6.3,56050,,
+,,,,,,56050,,,,,,,,,56050,,
