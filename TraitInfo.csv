@@ -1,0 +1,70 @@
+superior,"Units with this trait do increased Damage to enemies.
+- Superior I increases Damage by 10%
+- Superior II increases Damage by 12.5%
+- Superior III increases Damage by 15%.
+Superior I/II/III increases average DPS by 10/12.5/15% respectively.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592179925549096/latest.png?ex=6576b480&is=65643f80&hm=26b133b7ec39fc774719c17f667ac2f4a13db1a24dbaaccdad85e6b90efa6a4b&
+nimble,"Units with this trait have their SPA decreased, which allows them to attack more frequently.
+- Nimble I decreases SPA by 5%
+- Nimble II decreases SPA by 7.5%,
+- Nimble III decreases SPA by 12%.
+Nimble I/II/III increases average DPS by 5.2/8.1/13.6% respectively.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592209667362866/latest.png?ex=6576b487&is=65643f87&hm=bbbd6a6dd84f936f660e58b4ed7c6751a8b177dfa83ef82f81c9bb7337afe8c3&
+range,"Units with this trait have increased Range, which allows their attacks to reach more enemies.
+- Range I increases Range by 10%
+- Range II increases Range by 12.5%,
+- Range III increases Range by 15%.
+Range I/II/III does not increase average DPS if the unit can always reach enemies.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592227627368488/latest.png?ex=6576b48c&is=65643f8c&hm=b7cf67aa403e18604f1cfd0dbd8ee4a159feb3ae2ae4f48c279eba8a8c7c28c8&
+adept,"Units with this Trait level up at a faster rate, receiving 50% more XP. This trait is good for leveling up low-level units.
+
+Adept does not increase DPS.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592252147269693/latest.png?ex=6576b492&is=65643f92&hm=835edd5f5c6d05328146901da18d394f85b7ead79de864621ffec3a285eb3b7e&
+culling,"Units with this trait have a 20% Damage boost to enemies with 30% or lower health.
+
+Culling increases average DPS for units by 20% to enemies with under 30% health or lower, averaging to 6% increase.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592352345018378/latest.png?ex=6576b4a9&is=65643fa9&hm=3a4f67d54462fc4d19b5362091d1c4994ed5d0005a2702af37df61507e14602c&
+sniper,"Units with this trait receive a 25% Range boost.
+
+This trait is ideal for units like Lao (ROOM), Homuru (Time Traveller), Orwin, Wenda or Leafy (Sylph), since their ability can affect more enemies, units, or have a stronger impact.
+
+Sniper does not increase average DPS if the unit can always reach enemies.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592380396507146/latest.png?ex=6576b4b0&is=65643fb0&hm=e0aae99467b201a088ef3712fe46d22735cf5cc7bdab74e5f2e253015a1da71f&
+godspeed,"Units with this trait receive a 20% SPA reduction, significantly increasing attack frequency.
+
+Ideal for slow units such as Gone (???), Yuto (Cursed Child), Coyote (Primera), Aizo (Final), Dany (Creation), Ice Queen (Empire's Strongest), Mamy (Holy), Golden Freezo(Emperor) ,Aokijo (Blue Pheasant) and Koichy (Echoes).
+
+This trait gives your unit a blue lightning aura.
+
+Godspeed increases average DPS by 25%.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592400210415686/latest.png?ex=6576b4b5&is=65643fb5&hm=60f74d5d2218669bd0b387af916901f0687d95f12f0aeb172b12ce79191485ba&
+reaper,"Units with this trait do 15% more Damage and deal 25% more Damage to bosses.
+
+Good trait for units that work well against bosses like Usoap (God) and Akin (Contract).
+
+This trait gives your unit a red and blackish aura.
+
+Reaper increases average DPS by 15% normally, and by 43.75% when damaging a boss.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592416215871558/latest.png?ex=6576b4b9&is=65643fb9&hm=542b62193d52fa57bdd303d0c88a1c5d29f2bd06e3c23a3e45beca993693b726&
+celestial,"Units with this trait have a 10% Damage boost, a 10% Range boost and a 20% Damage Buff as True Damage which bypasses physical and magic resistances.
+
+Good for Infinity Castle, Legend Stages, Daily Challenges or any mode that has enemies with resistances.
+
+This trait gives your unit a purple galaxy aura.
+
+Celestial increases average DPS by 32%",https://cdn.discordapp.com/attachments/1178592161390927972/1178592428727472209/latest.png?ex=6576b4bc&is=65643fbc&hm=15648563717de499d52523db0f7ba983484a3e0ef68ef6de569aee2e16d6dee1&
+divine,"Units with this trait have a 20% Damage boost, 10% SPA reduction, and a 20% Range boost.
+
+Ideal trait for:
+
+Units with 4+ spawn cap, like Luffo (Gear IV), Kiroto (Dual) or Harribu (Shark Empress);
+Support units that benefit from multiple placements, like Shigaruko (Symbol of Fear) or Endeavor (Hellflame);
+Units that need multiple placements for the best effect, like Griffin (Ascension).
+
+This trait gives your unit angelic wings.
+
+Divine increases average DPS by 33.3%.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592443113951332/latest.png?ex=6576b4bf&is=65643fbf&hm=0c70507580a8ba2fd0d2f158c427f9652552df82cc2502aa9db07b867a87dbd4&
+golden,"Units with this trait have a 30% Damage boost and receive 20% more Yen each time they make money.
+
+Ideal trait for farm units Bulmy and Speedcart. Note that while Navi (Thief) being a farm unit, Golden only gives her a 30% Damage boost, but not a Yen boost.
+
+This trait gives your unit a gold appearance.
+
+Golden increases average DPS by 30%.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592457689149450/latest.png?ex=6576b4c3&is=65643fc3&hm=f7a324b0ee9cda036b7a30d7d5c321062a4160c3efd158ea87658992ecd81174&
+unique,"Units with this Trait have a 4x (300%) Damage boost, 10% SPA reduction, and a 10% Range boost. Units with this trait are restricted to a maximum of ONE of this unit placed (only affects the owner of the unit).
+
+Ideal trait for units with 3 placements
+
+This trait gives your unit an enchanting aura adorned with ancient runic symbols.",https://cdn.discordapp.com/attachments/1178592161390927972/1178592619085963356/latest.png?ex=6576b4e9&is=65643fe9&hm=e833c6694c3e7793eb23bc5c1002bd4ae74aa597cafd7be6c072b61d3ffa5dd3&
