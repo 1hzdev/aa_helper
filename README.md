@@ -24,6 +24,8 @@ Source code for the bot will probably not be released publicly.
 
 - /help - Help command lol
 
+- Custom emojis for various commands
+
 ## Stat Lookup Guide
 Running the command below will show the stats for "Guts" at max upgrade, without traits, and with base stats (0% Damage / 0% Range / 0% SPA)
 
