@@ -4,9 +4,8 @@
 
 AA Helper is a discord bot made for Anime Adventures players. This bot is not affiliated with the developers of the game.
 
-This repo contains files for the bot to work + a feature list and other information about the bot can be found below.
+This repo contains files for the bot to work. Source code for the bot will probably not be released publicly.
 
-Source code for the bot will probably not be released publicly.
 ## Commands & Features
 - /stats - Shows damage, range, and SPA for a unit in game at max upgrade. Takes one string parameter which should be the name of the unit. A second parameter is accepted, read below
 
