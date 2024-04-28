@@ -1,6 +1,8 @@
 # AA Helper
 
-AA Helper is a discord bot made for Anime Adventures players. You can play around with the bot by joining the [Discord Server](https://discord.gg/EbWuhVwfaV), or, [Invite](https://discord.com/api/oauth2/authorize?client_id=1012987338160341133&permissions=0&scope=bot+applications.commands) the bot to your own server. This bot is not affiliated with the developers of the game/discord server.
+[Invite the bot](https://discord.com/api/oauth2/authorize?client_id=1012987338160341133&permissions=0&scope=bot+applications.commands)
+
+AA Helper is a discord bot made for Anime Adventures players. This bot is not affiliated with the developers of the game.
 
 This repo contains files for the bot to work + a feature list and other information about the bot can be found below.
 
