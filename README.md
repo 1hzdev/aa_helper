@@ -1,4 +1,4 @@
-# AA Helper
+# AA Helper (End of Support)
 
 [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=1012987338160341133&permissions=0&scope=bot+applications.commands)
 
